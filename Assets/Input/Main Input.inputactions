@@ -1,0 +1,34 @@
+{
+    "name": "Main Input",
+    "maps": [
+        {
+            "name": "Game",
+            "id": "7b67a547-1ae6-4efc-b178-0a2b3d9b5872",
+            "actions": [
+                {
+                    "name": "ClickMove",
+                    "type": "Button",
+                    "id": "5d16271a-0aad-4c62-abd7-d7d46ace66b6",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "952eabde-bddf-46c4-b0fc-2b43fe3d93e7",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ClickMove",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
